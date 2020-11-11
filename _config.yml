@@ -9,9 +9,13 @@ content: I am currently a senior at Haverford College. I was born in Osaka, Japa
 
 # Add your social links
 social:
+
+  - platform: resume
+    url:
+  - platform: random things
+    url:
   - platform: github
     url: https://github.com/shufan1
-
   - platform: linkedin
     url: https://www.linkedin.com/in/shufan-xia-237030158/
 
