@@ -1,28 +1,25 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Shufan Xia
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description: I am making this page for fun, for learning tools, for holding random things, for you to get to know me.
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: I am currently a senior at Haverford College. I was born in Osaka, Japan and grew up in Shanghai, China, one of the best cities in my opinion. I major in Physics with a concentration in sceintific computing, but I also have a heart for history, for reading texts to learn about communities and people in the past. Out side books and studying, I play ultimate frisbee, run, occasionally bake and knit. 
 
 # Add your social links
 social:
   - platform: github
     url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
-  - platform: twitter
-    url: https://twitter.com/brianmaierjr
+
   - platform: linkedin
-    url: brianmaierjr
+    url: https://www.linkedin.com/in/shufan-xia-237030158/
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
 # baseurl: "/uni" 
 markdown: kramdown
-sharing_image: share.jpg
+sharing_image: me.jpg
 google_analytics: "UA-58263416-1" # google analytics tracking
 
 #### LAYOUT OPTIONS #####
